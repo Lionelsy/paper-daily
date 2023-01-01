@@ -34,3 +34,10 @@
   'SLAM': '"SLAM"'
   'SFM': '"SFM"OR"Structure from Motion"'
   'Visual Localization': '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
+
+'Smart City':
+  'Time Series': '"Time Series"'
+  'Smart City': '"Smart City"OR""Smart Cities""'
+  'Urabn Computing': '"Urabn Computing"'
+  'Traffic': '"Traffic"OR"Traffic Flow Prediction"OR"Traffic Speed Prediction"OR"Vehicle"'
+  'Energy': '"Energy"OR"Grid"'
