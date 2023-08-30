@@ -53,6 +53,8 @@ jobs:
       # ============================================
       # TODO [√] 更新 mkdocs
       # ============================================
+      - name: Install xmllint
+        run: sudo apt-get install python3-lxml
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@nomaterial
         env:
